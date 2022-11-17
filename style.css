@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-image: url(./Image/photo-1523240795612-9a054b0db644.jpeg);
+    background-repeat: no-repeat;
+    background-blend-mode: purple;
+    
+
+
+}
+.container {
+    width: 500px;
+    height: 1200px;
+    margin: auto;
+
+}
+.top {
+    height: 300px;
+    
+    
+}
+/* .middle {
+    
+}
+.bottom {
+    
+} */
+.text {
+    text-align: center;
+    padding: 0;
+}
+input {
+    width: 70%;
+    margin: auto;
+}
+.main {
+    width: 500px;
+    height: 700px;
+    border: 1px solid black;
+}
+.textL {
+    height: 80px;
+    width: 90%;
+}
+.rad {
+    display: flex;
+    
+}
+button {
+    width: 90%;
+    height: 25px;
+}
